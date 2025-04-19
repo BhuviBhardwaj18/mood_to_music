@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (if you use it)
+.vscode/
+
+# PyCharm settings (if you use it)
+.idea/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# .csv files (if not essential)
+mood_data.csv
